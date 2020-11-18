@@ -12,9 +12,7 @@ public class Colegio {
         Scanner input = new Scanner(System.in);
 
         List<persona> listaPersonas = new ArrayList<>();
-        List<alumno> listaAlumnos = new ArrayList<>();
-        List<profesor> listaProfesor = new ArrayList<>();
-
+        
         int opc = 0;
         char tipoPersona;
 
